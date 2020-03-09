@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nazim</string>
+    <string name="welcome">Nazims App</string>
+    <string name="time">Time spent in this activity </string>
+    <string name="score">Score</string>
+    <string name="question1">Which is alive?</string>
+    <string name="choice1">Lion</string>
+    <string name="choice2">Rock</string>
+    <string name="choice3">Door</string>
+    <string name="quit">Quit</string>
+    <string name="author">Made by Smatova Nazim 11B</string>
+    <string name="quiz">Quiz</string>
+    <string name="press">Press the button</string>
+    <string name="switchcase">Switch app</string>
+    <string name="color">What RGB color do you like?</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+
+</resources>
